@@ -1,12 +1,12 @@
 {
     "success": true,
-    "version": "3.3.5",
-    "url": "https://ghproxy.net/https://github.com/xiche155/suxun-assistant/releases/download/v3.3.5/suxun_v3.3.5.exe",
+    "version": "3.3.6",
+    "url": "https://ghproxy.net/https://github.com/xiche155/suxun-assistant/releases/download/v3.3.6/suxun_v3.3.6.exe",
     "urls": [
-        "https://ghproxy.net/https://github.com/xiche155/suxun-assistant/releases/download/v3.3.5/suxun_v3.3.5.exe",
-        "https://gh-proxy.com/https://github.com/xiche155/suxun-assistant/releases/download/v3.3.5/suxun_v3.3.5.exe",
-        "https://github.com/xiche155/suxun-assistant/releases/download/v3.3.5/suxun_v3.3.5.exe"
+        "https://ghproxy.net/https://github.com/xiche155/suxun-assistant/releases/download/v3.3.6/suxun_v3.3.6.exe",
+        "https://gh-proxy.com/https://github.com/xiche155/suxun-assistant/releases/download/v3.3.6/suxun_v3.3.6.exe",
+        "https://github.com/xiche155/suxun-assistant/releases/download/v3.3.6/suxun_v3.3.6.exe"
     ],
-    "notes": "【重要修复】\n1. 彻底修复更新完成后不自动打开的问题。\n2. 彻底消灭更新覆盖时可能出现的黑框闪烁。\n3. 优化后台替换逻辑，增加30次重试和容错保底机制。\n4. 完善更新界面的状态反馈。\n\n如果您当前处于 3.3.0 等早期版本，因旧版底层网络缺陷，请手动下载一次本版本覆盖。从本版本起，后续更新将 100% 稳定。",
+    "notes": "【核心修复】\n1. 修复最后一条消息只粘贴不发送的问题，发送后必定弹出完成提示。\n2. 修复消息库点击“添加模板”无响应的问题。\n3. 修复消息库下拉菜单错位问题。\n\n【体验优化】\n1. 全面升级为单文件版本，去除多余的依赖文件夹，双击即用。\n2. 统一各弹窗的液态玻璃 UI 风格。\n3. 消息库下拉菜单改为毛玻璃质感。\n\n【提示】\n单文件版首次启动解压需稍等几秒，如遇杀毒软件拦截请添加信任。",
     "force": false
 }
